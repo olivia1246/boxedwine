@@ -17,7 +17,7 @@
         let DEFAULT_BPP = 32;
         let DEFAULT_FRAME_SKIP = "0";
         let DEFAULT_RENDERER = "gdi";
-        let DEFAULT_ROOT_ZIP_FILE = "https://github.com/olivia1246/boxedwine/releases/download/wine5/boxedwine.zip";
+        let DEFAULT_ROOT_ZIP_FILE = "boxedwine.zip";
         //params
         let Config = {};
         Config.locateRootBaseUrl = "";
